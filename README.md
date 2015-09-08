@@ -40,9 +40,13 @@ content from subscription providers.
 
 # Streamers: 
 These projects add a compatibility layer to existing products.
-* AppleTV App
-* Popcorntime.io
-* Calendarizer
+
+Television:
+ * AppleTV App
+ * Popcorntime.io
+ 
+Events:
+ * Calendarizer
 
 # Players (Consumers):
 * Modified Popcorntime-desktop
@@ -52,3 +56,4 @@ These projects add a compatibility layer to existing products.
 * Chromecast
 * Dedicated web portal
 * iOS and Android apps
+* Notifier
