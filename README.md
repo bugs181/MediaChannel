@@ -14,6 +14,8 @@ Motto: People need to see past what it is for what it can be.
 # Examples:
   * Watch content from flash websites on your AppleTV.
   * Access content from your computer on the AppleTV without the need to be at your computer.
+  * Get up to date show times right on your Calendar. (Google, iCal, Apple Watch, iPhone, Android, etc)
+  * Get notifications when a movie hits your local theater.
   * More coming soon
 
 In the future, there will also be an authentication API to allow more personalized content, settings, and
@@ -30,6 +32,8 @@ content from subscription providers.
 * Art
 * Study Guides
 * Live Streams
+* Events
+* Calendars
 
 # Projects:
 * Aggregator (Core)
