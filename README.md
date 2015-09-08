@@ -30,6 +30,7 @@ content from subscription providers.
 * Notes
 * Documents
 * ROMS
+* Recipes
 * Art / Fan Art
 * Study Guides
 * Live Streams
