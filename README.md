@@ -46,11 +46,11 @@ content from subscription providers.
 # Streamers: 
 These projects add a compatibility layer to existing products.
 
-Television:
+**Television:**
  * AppleTV App
  * Popcorntime.io
  
-Events:
+**Events:**
  * Calendarizer
 
 # Players (Consumers):
