@@ -29,7 +29,8 @@ content from subscription providers.
 # Projects:
 * Aggregator (Core)
 
-# Streamers: (These projects add a compatibility layer to existing products.)
+# Streamers: 
+These projects add a compatibility layer to existing products.
 * AppleTV App
 * Popcorntime.io
 
