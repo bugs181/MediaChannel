@@ -9,6 +9,8 @@ This opens the door to a brand new world of possibilities.
 
 The primary objective is to make the web more open and accessible regardless of the software or device that people use.
 
+Motto: People need to see past what it is for what it can be.
+
 # Examples:
   * Watch content on your AppleTV from flash websites.
   * Access content on your computer from the AppleTV without the need to be at your computer.
