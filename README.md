@@ -54,6 +54,7 @@ These projects add a compatibility layer to existing products.
  * Calendarizer
 
 # Players (Consumers):
+* Media4All - Provides easy access to all desktop players using a plugin architecture.
 * Modified Popcorntime-desktop
 
 # Supported services:
