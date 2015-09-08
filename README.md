@@ -42,6 +42,7 @@ content from subscription providers.
 These projects add a compatibility layer to existing products.
 * AppleTV App
 * Popcorntime.io
+* Calendarizer
 
 # Players (Consumers):
 * Modified Popcorntime-desktop
