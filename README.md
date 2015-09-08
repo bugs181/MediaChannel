@@ -25,11 +25,12 @@ content from subscription providers.
 * eBooks
 * Movies
 * TV Shows
+* Trailers
 * Songs
 * Notes
 * Documents
 * ROMS
-* Art
+* Art / Fan Art
 * Study Guides
 * Live Streams
 * Events
