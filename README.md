@@ -1,7 +1,7 @@
 ## WORK IN PROGRESS
 
 # What is Media4All?
-Media4All is an index list of projects that enable users to provide and consume web content, known as consumeable
+Media4All is an index list of projects that enable users to provide and consume web content, known as consumable
 media objects.
 
 The reason I started these projects was to allow people to consume THEIR content HOW they want.
