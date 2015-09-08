@@ -7,6 +7,8 @@ media objects.
 The reason I started these projects was to allow people to consume THEIR content HOW they want.
 This opens the door to a brand new world of possibilities.
 
+The primary objective is to make the web more open and accessible regardless of the software or device that people use.
+
 # Examples:
   * Watch content on your AppleTV from flash websites.
   * More coming soon
