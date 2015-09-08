@@ -39,3 +39,9 @@ These projects add a compatibility layer to existing products.
 
 # Players (Consumers):
 * Popcorntime-desktop
+
+# Planned
+* Roku
+* Chromecast
+* Dedicated web portal
+* iOS and Android apps
