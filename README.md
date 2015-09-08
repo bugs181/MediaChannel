@@ -12,8 +12,8 @@ The primary objective is to make the web more open and accessible regardless of 
 Motto: People need to see past what it is for what it can be.
 
 # Examples:
-  * Watch content on your AppleTV from flash websites.
-  * Access content on your computer from the AppleTV without the need to be at your computer.
+  * Watch content from flash websites on your AppleTV.
+  * Access content from your computer on the AppleTV without the need to be at your computer.
   * More coming soon
 
 In the future, there will also be an authentication API to allow more personalized content, settings, and
