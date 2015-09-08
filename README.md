@@ -51,6 +51,13 @@ Events:
 # Players (Consumers):
 * Modified Popcorntime-desktop
 
+# Supported services:
+* Sidereel
+* Primewire
+* Vidbull
+* YouTube
+* And hundreds more coming soon.
+
 # Planned
 * Roku
 * Chromecast
