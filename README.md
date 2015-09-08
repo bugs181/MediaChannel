@@ -35,6 +35,8 @@ content from subscription providers.
 * Live Streams
 * Events
 * Calendars
+* Torrents
+* Anonymous / Private Networks
 
 # Projects:
 * Aggregator (Core)
