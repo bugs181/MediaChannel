@@ -37,6 +37,7 @@ content from subscription providers.
 * Calendars
 * Torrents
 * Anonymous / Private Networks
+* Cancellation Buzz
 
 # Projects:
 * Aggregator (Core)
