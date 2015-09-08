@@ -4,7 +4,7 @@
 Media4All is an index list of projects that enable users to provide and consume web content, known as consumable
 media objects.
 
-The reason I started these projects was to allow people to consume THEIR content HOW they want.
+The reason I started these projects was to allow people to consume THEIR content WHEN they want and HOW they want.
 This opens the door to a brand new world of possibilities.
 
 The primary objective is to make the web more open and accessible regardless of the software or device that people use.
