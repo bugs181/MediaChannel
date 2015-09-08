@@ -38,6 +38,7 @@ content from subscription providers.
 * Torrents
 * Anonymous / Private Networks
 * Cancellation Buzz
+.. And practically everything else on the web.
 
 # Projects:
 * Aggregator (Core)
