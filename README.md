@@ -38,7 +38,7 @@ These projects add a compatibility layer to existing products.
 * Popcorntime.io
 
 # Players (Consumers):
-* Popcorntime-desktop
+* Modified Popcorntime-desktop
 
 # Planned
 * Roku
