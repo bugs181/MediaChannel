@@ -42,7 +42,7 @@ content from subscription providers.
 * .. And practically everything else on the web.
 
 # Projects:
-* Aggregator (Core)
+* [Aggregator (Core)](https://github.com/bugs181/Aggregator)
 
 # Streamers: 
 These projects add a compatibility layer to existing products.
