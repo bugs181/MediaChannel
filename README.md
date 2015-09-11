@@ -48,7 +48,7 @@ content from subscription providers.
 These projects add a compatibility layer to existing products.
 
 **Television:**
- * AppleTV App
+ * [AppleTV App Streamer](https://github.com/bugs181/AppleTV-Streamer)
  * [Popcorntime.io Streamer](https://github.com/bugs181/Popcorntime)
  
 **Events:**
@@ -57,6 +57,7 @@ These projects add a compatibility layer to existing products.
 # Players (Consumers):
 * Media4All - *Provides easy access to all desktop players using a plugin architecture.*
 * Modified Popcorntime-desktop
+* Genie - *Web UI that shows proof of concept and in-action demo of using the service for television.*
 
 # Supported services:
 * Sidereel
