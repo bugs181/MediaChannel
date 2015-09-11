@@ -49,7 +49,7 @@ These projects add a compatibility layer to existing products.
 
 **Television:**
  * AppleTV App
- * Popcorntime.io
+ * [Popcorntime.io Streamer](https://github.com/bugs181/Popcorntime)
  
 **Events:**
  * Calendarizer
