@@ -49,15 +49,16 @@ content from subscription providers.
 * .. And practically everything else on the web.
 
 # Projects:
-* Aggregator (Core)
+* [Aggregator (Core)](https://github.com/bugs181/Aggregator)
 
 # Streamers: 
 These projects add a compatibility layer to existing products.
 
 **Television:**
- * AppleTV App
- * Popcorntime.io
- * UPnP Server
+ * [AppleTV App Streamer](https://github.com/bugs181/AppleTV-Streamer)
+ * [Popcorntime.io Streamer](https://github.com/bugs181/Popcorntime)
+* UPnP Server
+* Plex Channel
  
 **Events:**
  * Calendarizer
@@ -65,6 +66,7 @@ These projects add a compatibility layer to existing products.
 # Players (Consumers):
 * MediaChannel - *Provides easy access to all desktop players using a plugin architecture.*
 * Modified Popcorntime-desktop
+* Genie - *Web UI that shows proof of concept and in-action demo of using the service for television.*
 
 # Supported services:
 * Sidereel
