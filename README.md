@@ -57,8 +57,8 @@ These projects add a compatibility layer to existing products.
 **Television:**
  * [AppleTV App Streamer](https://github.com/bugs181/AppleTV-Streamer)
  * [Popcorntime.io Streamer](https://github.com/bugs181/Popcorntime)
-* UPnP Server
-* Plex Channel
+ * UPnP Server
+ * Plex Channel
  
 **Events:**
  * Calendarizer
