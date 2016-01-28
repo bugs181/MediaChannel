@@ -23,6 +23,7 @@ Motto: People need to see past what it is, for what it can be.
   * Access content from your computer on the AppleTV without the need to be at your computer.
   * Get up to date show times right on your Calendar. (Google, iCal, Apple Watch, iPhone, Android, etc)
   * Get notifications when a movie hits your local theater.
+  * Read RSS feeds from Websites that don't support them out of the box.
   * More coming soon
 
 In the future, there will also be an authentication API to allow more personalized content, settings, and
