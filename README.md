@@ -46,6 +46,7 @@ content from subscription providers.
 * Torrents
 * Anonymous / Private Networks
 * Cancellation Buzz
+* RSS Feeds
 * .. And practically everything else on the web.
 
 # Projects:
@@ -64,16 +65,14 @@ These projects add a compatibility layer to existing products.
  * Calendarizer
 
 # Players (Consumers):
-* MediaChannel - *Provides easy access to all desktop players using a plugin architecture.*
-* Modified Popcorntime-desktop
-* Genie - *Web UI that shows proof of concept and in-action demo of using the service for television.*
 
-# Supported services:
-* Sidereel
-* Primewire
-* Vidbull
-* YouTube
-* And hundreds more coming soon.
+**Television:**
+ * MediaChannel - *Provides easy access to all desktop players using a plugin architecture.*
+ * Modified Popcorntime-desktop
+ * Genie - *Web UI that shows proof of concept and in-action demo of using the service for television.*
+
+**RSS:**
+ * Feeder.io - *Adapted from Feedly, this site allows you to have custom RSS feeds and community driven plugins.* (Coming Soon)
 
 # Planned
 * Roku
