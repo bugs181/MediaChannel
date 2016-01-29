@@ -72,6 +72,7 @@ These projects add a compatibility layer to existing products.
  * MediaChannel - *Provides easy access to all desktop players using a plugin architecture.*
  * Modified Popcorntime-desktop
  * Genie - *Web UI that shows proof of concept and in-action demo of using the service for television.*
+ * [AppleTV 4 tvOS App](https://github.com/bugs181/tvOS)
 
 **RSS:**
  * Feeder.io - *Adapted from Feedly, this site allows you to have custom RSS feeds and community driven plugins.* (Coming Soon)
@@ -82,5 +83,5 @@ These projects add a compatibility layer to existing products.
 * Dedicated web portal
 * iOS and Android apps
 * Notifier
-* Apple TV 1 - 3 Trailers hack
-* [AppleTV 4 tvOS App](https://github.com/bugs181/tvOS)
+* Apple TV 1 - 3 Trailers hack (In progress) - *See [PopcornTV](https://github.com/bugs181/PopcornTV) or [AppleTV App Streamer](https://github.com/bugs181/AppleTV-Streamer)*
+* [AppleTV 4 tvOS App](https://github.com/bugs181/tvOS) (In progress)
