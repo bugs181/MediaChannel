@@ -1,9 +1,9 @@
 ## WORK IN PROGRESS
 
 # What is MediaChannel?
-In the most simplist of terms, MediaChannel is an ongoing project that enables users to provide and consume web content, known as consumable media objects.
+In the most simplist of terms, MediaChannel is an ongoing project that enables users to provide and consume web content, known as media objects.
 
-At it's core MediaChannel is a website aggregator that consumes information and formats it into
+At it's core, MediaChannel is a website aggregator that consumes information and formats it into
 a layout known as channels and media objects. The project's aim is to allow other applications and websites to consume this information with an easy to use API.
 
 Channels are basically the containers of Media Objects translated to computer format, just as Websites are the containers for the information we humans digest.
