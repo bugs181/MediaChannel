@@ -58,6 +58,7 @@ These projects add a compatibility layer to existing products.
 
 **Television:**
  * [AppleTV App Streamer](https://github.com/bugs181/AppleTV-Streamer)
+ * [PopcornTV](https://github.com/bugs181/PopcornTV) - *Modified version to use MediaChannel instead of torrents.*
  * [Popcorntime.io Streamer](https://github.com/bugs181/Popcorntime)
  * UPnP Server
  * Plex Channel
